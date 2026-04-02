@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @guptashailesh8
-- 👀 I’m interested in Web/Mobile/API automation.
-- 🌱 I’m currently learning Python, React JS
-- 💞️ I’m looking to collaborate on Automation projects.
+
